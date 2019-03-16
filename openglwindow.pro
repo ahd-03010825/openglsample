@@ -3,5 +3,5 @@ TARGET = openglwindow
 QT += widgets
 
 # Input
-HEADERS += openglwindow.h
-SOURCES += main.cpp openglwindow.cpp
+HEADERS += trianglewindow.h
+SOURCES += main.cpp trianglewindow.cpp
