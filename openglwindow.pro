@@ -1,7 +1,6 @@
-include(openglwindow.pri)
+TEMPLATE = app
+TARGET = openglwindow
 
-SOURCES += \
-    main.cpp
-
-target.path = $$[QT_INSTALL_EXAMPLES]/gui/openglwindow
-INSTALLS += target
+# Input
+HEADERS += openglwindow.h
+SOURCES += main.cpp openglwindow.cpp
