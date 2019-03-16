@@ -1,5 +1,6 @@
 TEMPLATE = app
 TARGET = openglwindow
+QT += widgets
 
 # Input
 HEADERS += openglwindow.h
