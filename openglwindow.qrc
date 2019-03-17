@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>simplecolor.fsh</file>
+    <file>simplematrix.vsh</file>
+</qresource>
+</RCC>
