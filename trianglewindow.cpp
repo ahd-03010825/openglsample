@@ -70,7 +70,7 @@ void TriangleWindow::paintGL()
 	painter.save();
 
 	painter.setPen(Qt::white);
-	painter.drawText(QPointF(500, 500), "This is a test");
+	painter.drawText(QPointF(200, 200), "This is a test");
 
 	painter.restore();
 
